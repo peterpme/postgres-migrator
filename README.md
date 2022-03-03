@@ -19,7 +19,7 @@ fly secrets set TARGET_DATABASE_URI=postgres://<user>:<password>@<hostname>:<por
 
 3. Launch the app
 ```
-fly launch --name postgres-migration-tool
+fly launch --name migration-app
 ```
 
 4. Read the recommendations section below. :)
